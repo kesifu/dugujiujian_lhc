@@ -8,5 +8,14 @@ public class dugujiujian {
         System.out.println("jianfa dugujiujian!!!");
         System.out.println("jianfa dugujiujian!!!");
         System.out.println("jianfa dugujiujian!!!");
+        System.out.println("jianfa dugujiujian!!!");
+        System.out.println("22");
+        System.out.println("jianfa dugujiujian!!!");
+        System.out.println("jianfa dugujiujian!!!");
+        System.out.println("jianfa dugujiujian!!!");
+        System.out.println("jianfa dugujiujian!!!");
+        System.out.println("jianfa dugujiujian!!!");
+        System.out.println("jianfa dugujiujian!!!");
+        System.out.println("jianfa dugujiujian!!!");
     }
 }
